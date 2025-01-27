@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Print greeting
         run: echo "Hello World!"
-      - name: Print goodbay
+      - name: Print goodby
         run: echo "Done - bye!"
       
       
